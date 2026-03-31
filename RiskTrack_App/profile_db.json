@@ -1,0 +1,58 @@
+{
+  "users": {
+    "patrawadee.w@kkumail.com": {
+      "first": "Patrawadee",
+      "last": "W",
+      "nick": "P",
+      "email": "patrawadee.w@kkumail.com",
+      "role": "Risk & Task Manager",
+      "status": "Active",
+      "avatar_path": "C:/Users/Windows/OneDrive/รูปภาพ/Screenshots/Screenshot 2025-11-24 164153.png"
+    },
+    "pattarawadeevonghan@gmail.com": {
+      "first": "Patrawadee",
+      "last": "LL",
+      "nick": "P",
+      "email": "pattarawadeevonghan@gmail.com",
+      "role": "Risk & Task Manager",
+      "status": "Active",
+      "avatar_path": "C:/Users/asus/OneDrive/รูปภาพ/kuromimermaid.jpg"
+    },
+    "mmopdd.16@gmail.com": {
+      "first": "Mo",
+      "last": "Thepza",
+      "nick": "M",
+      "email": "mmopdd.16@gmail.com",
+      "role": "Tester",
+      "status": "Active",
+      "avatar_path": ""
+    },
+    "thitiya.m@kkumail.com": {
+      "first": "thitiya",
+      "last": "M",
+      "nick": "T",
+      "email": "thitiya.m@kkumail.com",
+      "role": "Risk & Task Manager",
+      "status": "Inactive",
+      "avatar_path": ""
+    },
+    "faigun548@gmail.com": {
+      "first": "Wednesday",
+      "last": "Adams",
+      "nick": "W",
+      "email": "faigun548@gmail.com",
+      "role": "Risk & Task Manager",
+      "status": "Active",
+      "avatar_path": "C:/Users/asus/OneDrive/รูปภาพ/kuromimermaid.jpg"
+    },
+    "wirithipha.d@gmail.com": {
+      "first": "Ne",
+      "last": "ja",
+      "nick": "N",
+      "email": "wirithipha.d@gmail.com",
+      "role": "Risk & Task Manager",
+      "status": "Active",
+      "avatar_path": ""
+    }
+  }
+}
